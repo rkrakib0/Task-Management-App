@@ -28,7 +28,7 @@ Clone or download this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-repo/task-management-app.git
+git clone https://github.com/rkrakib.0/task-management-app.git
 Open the folder and locate the index.html file.
 Usage
 Open the index.html file in your browser.
