@@ -15,33 +15,13 @@ Technologies Used
 HTML: For the structure of the application.
 CSS: For styling and layout of the app.
 JavaScript (ES6+): For implementing app logic and interactivity.
-LocalStorage: To persist data across browser sessions.
-Getting Started
-Prerequisites
 
 
 To run the app, you'll need:
 
 A modern web browser (e.g., Chrome, Firefox, Edge).
 Installation
-Clone or download this repository to your local machine:
-bash
-Copy
-Edit
-git clone https://github.com/rkrakib.0/task-management-app.git
-Open the folder and locate the index.html file.
-Usage
-Open the index.html file in your browser.
-Use the form to:
-Add a task with a title, description, and priority.
-View all tasks in the task list.
-Click on:
-"Complete" to mark a task as completed or undo it.
-"Delete" to remove a task.
-Folder Structure
-graphql
-Copy
-Edit
+
 TaskManager/
 │
 ├── index.html       # Main HTML file for structure
